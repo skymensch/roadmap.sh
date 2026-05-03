@@ -1,19 +1,9 @@
-# Server Stats
+# roadmap.sh
 
-A shell script that analyses basic server performance stats on any Linux server.
+A collection of projects built while following [roadmap.sh](https://roadmap.sh).
 
-https://roadmap.sh/projects/server-stats
+## Projects
 
-## Usage
-
-```bash
-bash server-stats.sh
-```
-
-## Stats
-
-- CPU usage
-- Memory usage (Free vs Used with percentage)
-- Disk usage (Free vs Used with percentage)
-- Top 5 processes by CPU usage
-- Top 5 processes by memory usage
+| Project | Description |
+|---|---|
+| [server-stats](./server-stats.sh) | Shell script to analyse basic Linux server performance stats |
